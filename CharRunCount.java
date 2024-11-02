@@ -1,4 +1,4 @@
-// Question 9
+// Question 10
 public class CharRunCount {
 	public static void main(String[] args){
 	    String word = args[0];

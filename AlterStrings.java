@@ -1,4 +1,4 @@
-// Question 10
+// Question 11
 public class AlterStrings {
 	public static void main(String[] args){
 		String original = args[0];

@@ -1,4 +1,4 @@
-// Question 13, Expansion 1
+// Question 9, Expansion 1
 public class CompareStrings {
 		public static void main(String[] args){
 			String a = args[0];         

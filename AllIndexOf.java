@@ -1,7 +1,7 @@
-// Question 12
+// Question 13
 public class AllIndexOf {
     public static void main(String[] args) {
-        // Q9 - charRunCount 
+        // Q10 - charRunCount 
         String word = args[0];
         char ch = args[1].charAt(0);
 
@@ -13,7 +13,7 @@ public class AllIndexOf {
         }
         System.out.println("the char: " + ch + " appears " + count + " time in the word:" + word);
         
-        // Q11 - FindCharInString (with some adjustments)
+        // Q12 - FindCharInString (with some adjustments)
         String temp = "Find all appearnces of the char: " + ch + "in the string: " + word; 
         System.out.println(temp);
 

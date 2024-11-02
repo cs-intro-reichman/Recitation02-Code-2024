@@ -1,8 +1,8 @@
-// Question 11
+// Question 12
 public class FindCharInString {
     public static void main(String[] args){
-        String source = "hello";//args[0]; 
-        char chr = 'e';//args[1].length() > 0 ? args[1].charAt(0) : ' '; 
+        String source = args[0]; 
+        char chr = args[1].length() > 0 ? args[1].charAt(0) : ' '; 
         
         String printingLineStart = "Find the char: " + chr + " in the string: "; 
         printingLineStart += source;
